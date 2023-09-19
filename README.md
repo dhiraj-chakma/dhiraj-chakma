@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Chakma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- My bootcamp project [Moosician](https://moosician.me/)
+- My bootcamp project [Moosician](https://moosician.me/): app to connect musicians
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning: **React**
 
-- 💬 Ask me about **Ruby on rails, css, javascript**
+- 💬 Ask me about: **Ruby on rails, css, javascript**
 
-- 📫 How to reach me **Chakmadhiraj@gmail.com**
+- 📫 How to reach me: **Chakmadhiraj@gmail.com**
 
-- ⚡ Fun fact **I think I am quite good at badminton**
+- ⚡ Fun fact: **I think I am quite good at badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
