@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Chakma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- My React project [Weather app]([https://moosician.me/](https://weather-app-8935ef337293.herokuapp.com/)): app to get weather updates
+- My React project [Weather app]([https://moosician.me/](https://weather-app-8935ef337293.herokuapp.com/): app to get weather updates
 
 - 🌱 I’m currently learning: **React**
 
